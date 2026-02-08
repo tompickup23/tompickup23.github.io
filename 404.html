@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>AI DOGE</title>
+  <script>
+    // GitHub Pages SPA redirect — routes unknown paths back to the correct sub-app
+    // Paths like /lancashire/burnleycouncil/spending get handled by the SPA in that subfolder
+    var path = window.location.pathname;
+    // Check if this looks like a council SPA route (has 3+ segments)
+    var segments = path.split('/').filter(Boolean);
+    if (segments.length >= 3) {
+      // e.g. /lancashire/burnleycouncil/spending → redirect to /lancashire/burnleycouncil/?p=/spending
+      var base = '/' + segments[0] + '/' + segments[1] + '/';
+      var route = '/' + segments.slice(2).join('/');
+      var search = window.location.search;
+      window.location.replace(base + '?p=' + encodeURIComponent(route) + (search ? '&' + search.slice(1) : ''));
+    } else {
+      // Unknown route — redirect to homepage
+      window.location.replace('/');
+    }
+  </script>
+</head>
+<body></body>
+</html>
