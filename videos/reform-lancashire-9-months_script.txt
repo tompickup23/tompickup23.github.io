@@ -1,0 +1,31 @@
+VOICEOVER SCRIPT
+============================================================
+
+[0.0s] hook_53_seats
+On the first of May twenty twenty-five, Reform UK won fifty-three of eighty-four seats at Lancashire County Council. The first time any party outside the Conservatives or Labour had controlled a county council in England.
+
+[6.0s] ct_380
+Reform set the council tax rise at three point eight percent. The lowest in twelve years. After two years of four point nine nine percent under the Conservatives, the highest rises in the entire decade, we are stopping the rot.
+
+[12.0s] overspend_reduction
+We inherited a twenty-eight million pound overspend. The Conservatives had set a budget they could not deliver, hitting just forty-eight percent of their savings targets. Nine months later, we have cut that overspend to six point two million. A seventy-eight percent reduction.
+
+[18.0s] care_homes_5
+Five care homes faced an uncertain future. Reform consulted sixteen hundred residents, listened, and kept all five open. Against the national trend, where council-run care has collapsed from sixty-four percent of beds to just four percent.
+
+[23.5s] damage_921m
+The Conservatives left nine hundred and twenty-one million pounds of documented financial damage across eight years. Treasury losses. Overspends. Disposal losses. All in the audited accounts.
+
+[29.5s] bonds_600m
+On top of that, we inherited a six hundred million pound bond portfolio, bought without proper disclosure. If sold today, the estimated loss is three hundred and fifty million. Total financial damage: up to one point two seven billion pounds.
+
+[35.5s] highways_650m
+We inherited a six hundred and fifty million pound highways backlog. The UK spends five point seven seven million pounds every single day on asylum seeker hotels. The entire Lancashire road repair bill could be cleared for a hundred and thirteen days of that spending. A matter of government priorities.
+
+[40.5s] cta
+Nine months in. The numbers tell the story. Visit tom pickup dot co dot UK for the full breakdown.
+
+
+Total duration: 44.5s
+Word count: 288
+Speaking rate: ~388 words/min
