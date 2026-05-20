@@ -1,43 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url>
-    <loc>https://tompickup.co.uk/news/reform-uk-lancashire-lgr-critical-analysis/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Tom Pickup</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T14:00:00.000Z</news:publication_date>
-      <news:title>The Numbers Don&apos;t Lie: Why Lancashire Should Think Twice About LGR</news:title>
-      <news:keywords>lancashire, lgr, reform-uk, council-tax, local-government</news:keywords>
-    </news:news>
-    <lastmod>2026-03-22T14:00:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tompickup.co.uk/news/reform-lancashire-9-months/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Tom Pickup</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T13:00:00.000Z</news:publication_date>
-      <news:title>9 Months of Reform: Lancashire by the Numbers</news:title>
-      <news:keywords>lancashire, reform, finance, highways, social-care</news:keywords>
-    </news:news>
-    <lastmod>2026-03-18T13:00:00.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tompickup.co.uk/news/lancashire-armed-forces-covenant/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Tom Pickup</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T09:00:00.000Z</news:publication_date>
-      <news:title>Lancashire Retains Armed Forces Covenant Gold Award</news:title>
-      <news:keywords>lancashire, veterans, community</news:keywords>
-    </news:news>
-    <lastmod>2026-03-18T09:00:00.000Z</lastmod>
-  </url>
+
 </urlset>
