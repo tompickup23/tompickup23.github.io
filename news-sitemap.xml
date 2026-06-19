@@ -2,6 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://tompickup.co.uk/news/where-your-rent-goes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T16:00:00.000Z</news:publication_date>
+      <news:title>Where Your Rent Goes in Burnley</news:title>
+      <news:keywords>burnley, housing, rent, data</news:keywords>
+    </news:news>
+    <lastmod>2026-06-19T16:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tompickup.co.uk/news/burnleys-empty-homes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T15:00:00.000Z</news:publication_date>
+      <news:title>638 Empty Homes, 2,657 Families Waiting</news:title>
+      <news:keywords>burnley, housing, empty homes, data</news:keywords>
+    </news:news>
+    <lastmod>2026-06-19T15:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tompickup.co.uk/news/ten-thousand-on-pip/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T14:00:00.000Z</news:publication_date>
+      <news:title>Ten Thousand People in Burnley Are on PIP. Here Is Why.</news:title>
+      <news:keywords>burnley, benefits, welfare, data</news:keywords>
+    </news:news>
+    <lastmod>2026-06-19T14:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tompickup.co.uk/news/the-shared-houses-burnley-cannot-see/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T13:00:00.000Z</news:publication_date>
+      <news:title>The Shared Houses Burnley Cannot See</news:title>
+      <news:keywords>burnley, housing, hmo, data</news:keywords>
+    </news:news>
+    <lastmod>2026-06-19T13:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tompickup.co.uk/news/who-owns-burnley/</loc>
     <news:news>
       <news:publication>
