@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://tompickup.co.uk/news/pip-fraud/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T18:00:00.000Z</news:publication_date>
+      <news:title>PIP Fraud Just Jumped to £410 Million. Here Is the Honest Version.</news:title>
+      <news:keywords>welfare, benefits, pip, fraud, data</news:keywords>
+    </news:news>
+    <lastmod>2026-06-19T18:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tompickup.co.uk/news/motability-burnley/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T17:00:00.000Z</news:publication_date>
+      <news:title>Motability: One in Five New Cars, and 4,540 in Burnley</news:title>
+      <news:keywords>lancashire, burnley, welfare, motability, data</news:keywords>
+    </news:news>
+    <lastmod>2026-06-19T17:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tompickup.co.uk/news/where-your-rent-goes/</loc>
     <news:news>
       <news:publication>
