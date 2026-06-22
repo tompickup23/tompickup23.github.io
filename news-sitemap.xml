@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://tompickup.co.uk/news/nine-in-ten-no-charge/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T14:00:00.000Z</news:publication_date>
+      <news:title>Nine in Ten Crimes in Lancashire End With No One Charged</news:title>
+      <news:keywords>lancashire, crime, justice, policing, data</news:keywords>
+    </news:news>
+    <lastmod>2026-06-22T14:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tompickup.co.uk/news/lancashire-crime-divide/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T10:00:00.000Z</news:publication_date>
+      <news:title>Lancashire&apos;s Crime Divide: Four Times the Crime in One County</news:title>
+      <news:keywords>lancashire, crime, deprivation, data</news:keywords>
+    </news:news>
+    <lastmod>2026-06-22T10:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tompickup.co.uk/news/put-police-back-on-burnleys-streets/</loc>
     <news:news>
       <news:publication>
