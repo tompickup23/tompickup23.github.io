@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://tompickup.co.uk/news/where-burnley-councils-money-goes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T10:00:00.000Z</news:publication_date>
+      <news:title>Where Burnley Council&apos;s Money Goes: Every Payment Over £500 in 2025/26</news:title>
+      <news:keywords>burnley, transparency, spending, data, council</news:keywords>
+    </news:news>
+    <lastmod>2026-06-23T10:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tompickup.co.uk/news/nine-in-ten-no-charge/</loc>
     <news:news>
       <news:publication>
