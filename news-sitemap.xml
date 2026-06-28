@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://tompickup.co.uk/news/temporary-accommodation-asylum-burnley/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T16:00:00.000Z</news:publication_date>
+      <news:title>Burnley Doesn&apos;t Pay for Asylum Hotels. It Pays for What Comes Next.</news:title>
+      <news:keywords>doge, burnley, homelessness, asylum, spending, data</news:keywords>
+    </news:news>
+    <lastmod>2026-06-23T16:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tompickup.co.uk/news/where-burnley-councils-money-goes/</loc>
     <news:news>
       <news:publication>
