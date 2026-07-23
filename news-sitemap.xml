@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://tompickup.co.uk/news/lancashire-four-unitaries-model/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T21:30:00.000Z</news:publication_date>
+      <news:title>Four Councils, One Decision: I Modelled What Lancashire&apos;s Reorganisation Actually Means</news:title>
+      <news:keywords>lancashire, lgr, burnley, local-government, transparency</news:keywords>
+    </news:news>
+    <lastmod>2026-07-18T21:30:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://tompickup.co.uk/news/temporary-accommodation-asylum-burnley/</loc>
     <news:news>
       <news:publication>

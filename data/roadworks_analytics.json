@@ -1,270 +1,280 @@
 {
   "meta": {
-    "generated": "2026-06-28T08:46:46.908551+00:00",
-    "live_works": 1378,
-    "archived_works": 11171,
-    "total_analysed": 12549
+    "generated": "2026-07-23T08:23:33.895708+00:00",
+    "live_works": 1568,
+    "archived_works": 13889,
+    "total_analysed": 15457
   },
   "operator_league": [
     {
       "operator": "United Utilities Water",
-      "active_works": 401,
-      "completed_works": 3995,
-      "total_works": 4396,
-      "avg_duration_days": 5.5,
-      "overrun_pct": 39.0,
-      "high_severity_pct": 19.7,
+      "active_works": 370,
+      "completed_works": 4996,
+      "total_works": 5366,
+      "avg_duration_days": 5.4,
+      "overrun_pct": 38.2,
+      "high_severity_pct": 20.3,
       "districts_active_in": 12
     },
     {
       "operator": "BT",
-      "active_works": 332,
-      "completed_works": 3199,
-      "total_works": 3531,
-      "avg_duration_days": 3.1,
-      "overrun_pct": 43.5,
-      "high_severity_pct": 9.3,
+      "active_works": 328,
+      "completed_works": 3889,
+      "total_works": 4217,
+      "avg_duration_days": 3.0,
+      "overrun_pct": 41.9,
+      "high_severity_pct": 9.6,
       "districts_active_in": 12
     },
     {
       "operator": "Lancashire County Council",
-      "active_works": 271,
-      "completed_works": 1298,
-      "total_works": 1569,
-      "avg_duration_days": 29.4,
-      "overrun_pct": 40.7,
-      "high_severity_pct": 44.4,
+      "active_works": 448,
+      "completed_works": 1646,
+      "total_works": 2094,
+      "avg_duration_days": 24.1,
+      "overrun_pct": 39.2,
+      "high_severity_pct": 41.2,
       "districts_active_in": 12
     },
     {
       "operator": "Electricity North West Limited",
-      "active_works": 142,
-      "completed_works": 837,
-      "total_works": 979,
-      "avg_duration_days": 9.2,
-      "overrun_pct": 36.0,
-      "high_severity_pct": 30.6,
+      "active_works": 143,
+      "completed_works": 1061,
+      "total_works": 1204,
+      "avg_duration_days": 8.7,
+      "overrun_pct": 36.2,
+      "high_severity_pct": 30.2,
       "districts_active_in": 12
     },
     {
       "operator": "Cadent",
-      "active_works": 130,
-      "completed_works": 770,
-      "total_works": 900,
-      "avg_duration_days": 11.3,
-      "overrun_pct": 33.0,
-      "high_severity_pct": 15.8,
+      "active_works": 177,
+      "completed_works": 964,
+      "total_works": 1141,
+      "avg_duration_days": 11.4,
+      "overrun_pct": 30.3,
+      "high_severity_pct": 17.5,
       "districts_active_in": 12
     },
     {
       "operator": "Virgin Media",
-      "active_works": 23,
-      "completed_works": 410,
-      "total_works": 433,
-      "avg_duration_days": 2.9,
-      "overrun_pct": 23.2,
-      "high_severity_pct": 4.2,
+      "active_works": 26,
+      "completed_works": 489,
+      "total_works": 515,
+      "avg_duration_days": 2.8,
+      "overrun_pct": 22.9,
+      "high_severity_pct": 3.9,
       "districts_active_in": 12
     },
     {
       "operator": "IX Wireless Limited",
-      "active_works": 23,
-      "completed_works": 216,
-      "total_works": 239,
-      "avg_duration_days": 2.9,
-      "overrun_pct": 19.4,
-      "high_severity_pct": 26.8,
+      "active_works": 29,
+      "completed_works": 280,
+      "total_works": 309,
+      "avg_duration_days": 3.0,
+      "overrun_pct": 21.1,
+      "high_severity_pct": 24.6,
       "districts_active_in": 8
     },
     {
       "operator": "Broadband for the Rural North Limited",
       "active_works": 4,
-      "completed_works": 48,
-      "total_works": 52,
-      "avg_duration_days": 3.3,
-      "overrun_pct": 31.2,
-      "high_severity_pct": 25.0,
+      "completed_works": 58,
+      "total_works": 62,
+      "avg_duration_days": 3.2,
+      "overrun_pct": 25.9,
+      "high_severity_pct": 21.0,
       "districts_active_in": 3
     },
     {
       "operator": "Netomnia Limited",
-      "active_works": 7,
-      "completed_works": 43,
-      "total_works": 50,
+      "active_works": 0,
+      "completed_works": 62,
+      "total_works": 62,
       "avg_duration_days": 2.8,
-      "overrun_pct": 27.9,
-      "high_severity_pct": 2.0,
+      "overrun_pct": 25.8,
+      "high_severity_pct": 3.2,
       "districts_active_in": 9
     },
     {
       "operator": "National Highways",
       "active_works": 4,
-      "completed_works": 44,
-      "total_works": 48,
-      "avg_duration_days": 6.1,
-      "overrun_pct": 47.7,
-      "high_severity_pct": 14.6,
+      "completed_works": 49,
+      "total_works": 53,
+      "avg_duration_days": 5.8,
+      "overrun_pct": 53.1,
+      "high_severity_pct": 17.0,
       "districts_active_in": 8
     },
     {
       "operator": "Nexfibre",
-      "active_works": 4,
-      "completed_works": 38,
-      "total_works": 42,
-      "avg_duration_days": 3.0,
-      "overrun_pct": 23.7,
-      "high_severity_pct": 9.5,
-      "districts_active_in": 5
-    },
-    {
-      "operator": "Grain Communications Ltd",
-      "active_works": 5,
-      "completed_works": 33,
-      "total_works": 38,
-      "avg_duration_days": 4.5,
-      "overrun_pct": 3.0,
-      "high_severity_pct": 5.3,
-      "districts_active_in": 4
+      "active_works": 3,
+      "completed_works": 47,
+      "total_works": 50,
+      "avg_duration_days": 2.9,
+      "overrun_pct": 29.8,
+      "high_severity_pct": 12.0,
+      "districts_active_in": 6
     },
     {
       "operator": "Yorkshire Water",
       "active_works": 4,
-      "completed_works": 32,
-      "total_works": 36,
-      "avg_duration_days": 4.8,
-      "overrun_pct": 12.5,
-      "high_severity_pct": 19.4,
+      "completed_works": 40,
+      "total_works": 44,
+      "avg_duration_days": 4.6,
+      "overrun_pct": 10.0,
+      "high_severity_pct": 15.9,
       "districts_active_in": 1
     },
     {
+      "operator": "Network Rail Infrastructure Ltd",
+      "active_works": 6,
+      "completed_works": 37,
+      "total_works": 43,
+      "avg_duration_days": 4.9,
+      "overrun_pct": 18.9,
+      "high_severity_pct": 51.2,
+      "districts_active_in": 10
+    },
+    {
       "operator": "Vodafone Group",
-      "active_works": 4,
-      "completed_works": 31,
-      "total_works": 35,
+      "active_works": 5,
+      "completed_works": 36,
+      "total_works": 41,
       "avg_duration_days": 2.8,
-      "overrun_pct": 22.6,
-      "high_severity_pct": 20.0,
+      "overrun_pct": 22.2,
+      "high_severity_pct": 19.5,
       "districts_active_in": 11
     },
     {
-      "operator": "Network Rail Infrastructure Ltd",
+      "operator": "Grain Communications Ltd",
       "active_works": 0,
-      "completed_works": 32,
-      "total_works": 32,
-      "avg_duration_days": 4.9,
-      "overrun_pct": 21.9,
-      "high_severity_pct": 50.0,
-      "districts_active_in": 10
+      "completed_works": 38,
+      "total_works": 38,
+      "avg_duration_days": 4.5,
+      "overrun_pct": 10.5,
+      "high_severity_pct": 5.3,
+      "districts_active_in": 4
+    },
+    {
+      "operator": "Open Fibre Networks Ltd",
+      "active_works": 4,
+      "completed_works": 24,
+      "total_works": 28,
+      "avg_duration_days": 3.0,
+      "overrun_pct": 33.3,
+      "high_severity_pct": 28.6,
+      "districts_active_in": 1
     },
     {
       "operator": "SP Energy Networks",
       "active_works": 2,
-      "completed_works": 19,
-      "total_works": 21,
+      "completed_works": 21,
+      "total_works": 23,
       "avg_duration_days": 5.8,
-      "overrun_pct": 63.2,
-      "high_severity_pct": 19.0,
+      "overrun_pct": 61.9,
+      "high_severity_pct": 21.7,
       "districts_active_in": 1
     },
     {
-      "operator": "Open Fibre Networks Ltd",
+      "operator": "New World Payphones Ltd",
       "active_works": 3,
-      "completed_works": 16,
-      "total_works": 19,
-      "avg_duration_days": 2.8,
-      "overrun_pct": 25.0,
-      "high_severity_pct": 26.3,
+      "completed_works": 17,
+      "total_works": 20,
+      "avg_duration_days": 1.2,
+      "overrun_pct": 5.9,
+      "high_severity_pct": 0.0,
+      "districts_active_in": 3
+    },
+    {
+      "operator": "Northern Powergrid",
+      "active_works": 1,
+      "completed_works": 15,
+      "total_works": 16,
+      "avg_duration_days": 6.5,
+      "overrun_pct": 20.0,
+      "high_severity_pct": 31.2,
       "districts_active_in": 1
     },
     {
       "operator": "T-Mobile (UK) Limited",
-      "active_works": 3,
-      "completed_works": 10,
-      "total_works": 13,
-      "avg_duration_days": 5.3,
-      "overrun_pct": 30.0,
-      "high_severity_pct": 46.2,
+      "active_works": 1,
+      "completed_works": 14,
+      "total_works": 15,
+      "avg_duration_days": 5.5,
+      "overrun_pct": 35.7,
+      "high_severity_pct": 46.7,
       "districts_active_in": 7
-    },
-    {
-      "operator": "Northern Powergrid",
-      "active_works": 0,
-      "completed_works": 13,
-      "total_works": 13,
-      "avg_duration_days": 5.9,
-      "overrun_pct": 15.4,
-      "high_severity_pct": 30.8,
-      "districts_active_in": 1
     },
     {
       "operator": "Full Fibre Limited",
       "active_works": 0,
-      "completed_works": 10,
-      "total_works": 10,
-      "avg_duration_days": 2.6,
+      "completed_works": 13,
+      "total_works": 13,
+      "avg_duration_days": 2.5,
       "overrun_pct": 0.0,
       "high_severity_pct": 0.0,
       "districts_active_in": 1
     },
     {
       "operator": "Cornerstone Telecommunications Infrastru",
-      "active_works": 1,
-      "completed_works": 8,
-      "total_works": 9,
-      "avg_duration_days": 3.5,
-      "overrun_pct": 50.0,
-      "high_severity_pct": 55.6,
-      "districts_active_in": 5
-    },
-    {
-      "operator": "Global Utility Connections",
-      "active_works": 1,
-      "completed_works": 7,
-      "total_works": 8,
-      "avg_duration_days": 11.8,
-      "overrun_pct": 42.9,
-      "high_severity_pct": 0.0,
-      "districts_active_in": 4
+      "active_works": 2,
+      "completed_works": 9,
+      "total_works": 11,
+      "avg_duration_days": 3.4,
+      "overrun_pct": 44.4,
+      "high_severity_pct": 54.5,
+      "districts_active_in": 6
     },
     {
       "operator": "The Electricity Network Company Limited",
-      "active_works": 1,
-      "completed_works": 7,
-      "total_works": 8,
-      "avg_duration_days": 9.2,
-      "overrun_pct": 28.6,
+      "active_works": 0,
+      "completed_works": 11,
+      "total_works": 11,
+      "avg_duration_days": 8,
+      "overrun_pct": 54.5,
       "high_severity_pct": 0.0,
-      "districts_active_in": 5
+      "districts_active_in": 6
     },
     {
       "operator": "CityFibre Metro Networks Ltd",
-      "active_works": 0,
+      "active_works": 1,
       "completed_works": 8,
-      "total_works": 8,
+      "total_works": 9,
       "avg_duration_days": 2,
       "overrun_pct": 0.0,
       "high_severity_pct": 0.0,
       "districts_active_in": 2
     },
     {
-      "operator": "Murphy Power Distribution Limited",
-      "active_works": 2,
-      "completed_works": 4,
-      "total_works": 6,
-      "avg_duration_days": 13.7,
-      "overrun_pct": 0.0,
-      "high_severity_pct": 50.0,
-      "districts_active_in": 2
+      "operator": "Global Utility Connections",
+      "active_works": 0,
+      "completed_works": 8,
+      "total_works": 8,
+      "avg_duration_days": 11,
+      "overrun_pct": 50.0,
+      "high_severity_pct": 0.0,
+      "districts_active_in": 4
     },
     {
       "operator": "Hutchison 3G Ltd",
-      "active_works": 0,
-      "completed_works": 5,
+      "active_works": 1,
+      "completed_works": 6,
+      "total_works": 7,
+      "avg_duration_days": 1.2,
+      "overrun_pct": 16.7,
+      "high_severity_pct": 14.3,
+      "districts_active_in": 5
+    },
+    {
+      "operator": "Sapphire",
+      "active_works": 2,
+      "completed_works": 3,
       "total_works": 5,
-      "avg_duration_days": 1,
-      "overrun_pct": 20.0,
-      "high_severity_pct": 20.0,
-      "districts_active_in": 3
+      "avg_duration_days": 7,
+      "overrun_pct": 33.3,
+      "high_severity_pct": 60.0,
+      "districts_active_in": 2
     },
     {
       "operator": "SSE Pipelines Ltd",
@@ -277,16 +287,6 @@
       "districts_active_in": 1
     },
     {
-      "operator": "Indigo Power Ltd",
-      "active_works": 1,
-      "completed_works": 3,
-      "total_works": 4,
-      "avg_duration_days": 8.2,
-      "overrun_pct": 100.0,
-      "high_severity_pct": 25.0,
-      "districts_active_in": 2
-    },
-    {
       "operator": "Romec Ltd",
       "active_works": 0,
       "completed_works": 4,
@@ -297,63 +297,53 @@
       "districts_active_in": 3
     },
     {
-      "operator": "Aurora Utilities Limited",
-      "active_works": 3,
-      "completed_works": 0,
-      "total_works": 3,
-      "avg_duration_days": 18.7,
-      "overrun_pct": null,
-      "high_severity_pct": 66.7,
-      "districts_active_in": 1
-    },
-    {
-      "operator": "Energetics Gas Limited",
-      "active_works": 3,
-      "completed_works": 0,
-      "total_works": 3,
-      "avg_duration_days": 8.7,
-      "overrun_pct": null,
-      "high_severity_pct": 33.3,
-      "districts_active_in": 3
-    },
-    {
-      "operator": "Sapphire",
-      "active_works": 2,
-      "completed_works": 1,
-      "total_works": 3,
-      "avg_duration_days": 7,
-      "overrun_pct": 100.0,
-      "high_severity_pct": 66.7,
-      "districts_active_in": 2
-    },
-    {
-      "operator": "New World Payphones Ltd",
+      "operator": "Murphy Power Distribution Limited",
       "active_works": 0,
-      "completed_works": 3,
-      "total_works": 3,
-      "avg_duration_days": 2,
-      "overrun_pct": 33.3,
-      "high_severity_pct": 0.0,
+      "completed_works": 4,
+      "total_works": 4,
+      "avg_duration_days": 15.8,
+      "overrun_pct": 0.0,
+      "high_severity_pct": 50.0,
       "districts_active_in": 2
     },
     {
       "operator": "Voneus Ltd",
       "active_works": 0,
-      "completed_works": 3,
-      "total_works": 3,
-      "avg_duration_days": 4,
+      "completed_works": 4,
+      "total_works": 4,
+      "avg_duration_days": 3.3,
       "overrun_pct": 0.0,
-      "high_severity_pct": 33.3,
+      "high_severity_pct": 25.0,
       "districts_active_in": 2
     },
     {
       "operator": "ITS Technology Group",
       "active_works": 0,
-      "completed_works": 3,
-      "total_works": 3,
-      "avg_duration_days": 1.5,
+      "completed_works": 4,
+      "total_works": 4,
+      "avg_duration_days": 2.3,
       "overrun_pct": 0.0,
       "high_severity_pct": 0.0,
+      "districts_active_in": 3
+    },
+    {
+      "operator": "Advanced Electricity Networks Limited",
+      "active_works": 2,
+      "completed_works": 1,
+      "total_works": 3,
+      "avg_duration_days": 54.7,
+      "overrun_pct": 0.0,
+      "high_severity_pct": 33.3,
+      "districts_active_in": 2
+    },
+    {
+      "operator": "Indigo Power Ltd",
+      "active_works": 0,
+      "completed_works": 3,
+      "total_works": 3,
+      "avg_duration_days": 6.7,
+      "overrun_pct": 100.0,
+      "high_severity_pct": 33.3,
       "districts_active_in": 2
     },
     {
@@ -367,11 +357,41 @@
       "districts_active_in": 1
     },
     {
-      "operator": "Blackburn with Darwen Borough Council",
+      "operator": "Energetics Gas Limited",
+      "active_works": 0,
+      "completed_works": 3,
+      "total_works": 3,
+      "avg_duration_days": 9.3,
+      "overrun_pct": 66.7,
+      "high_severity_pct": 33.3,
+      "districts_active_in": 3
+    },
+    {
+      "operator": "Aurora Utilities Limited",
+      "active_works": 0,
+      "completed_works": 3,
+      "total_works": 3,
+      "avg_duration_days": 23.3,
+      "overrun_pct": 0.0,
+      "high_severity_pct": 66.7,
+      "districts_active_in": 1
+    },
+    {
+      "operator": "Blackpool Borough Council",
       "active_works": 1,
       "completed_works": 1,
       "total_works": 2,
-      "avg_duration_days": 4.5,
+      "avg_duration_days": 16.5,
+      "overrun_pct": 0.0,
+      "high_severity_pct": 50.0,
+      "districts_active_in": 1
+    },
+    {
+      "operator": "Harlaxton Gas Networks Limited",
+      "active_works": 1,
+      "completed_works": 1,
+      "total_works": 2,
+      "avg_duration_days": 6.5,
       "overrun_pct": 100.0,
       "high_severity_pct": 0.0,
       "districts_active_in": 1
@@ -387,6 +407,16 @@
       "districts_active_in": 2
     },
     {
+      "operator": "Blackburn with Darwen Borough Council",
+      "active_works": 0,
+      "completed_works": 2,
+      "total_works": 2,
+      "avg_duration_days": 4.5,
+      "overrun_pct": 100.0,
+      "high_severity_pct": 0.0,
+      "districts_active_in": 1
+    },
+    {
       "operator": "Cellnex (On Tower Uk Ltd)",
       "active_works": 0,
       "completed_works": 2,
@@ -394,16 +424,6 @@
       "avg_duration_days": 1,
       "overrun_pct": 50.0,
       "high_severity_pct": 50.0,
-      "districts_active_in": 1
-    },
-    {
-      "operator": "Blackpool Borough Council",
-      "active_works": 1,
-      "completed_works": 0,
-      "total_works": 1,
-      "avg_duration_days": 32,
-      "overrun_pct": null,
-      "high_severity_pct": 0.0,
       "districts_active_in": 1
     },
     {
@@ -457,16 +477,6 @@
       "districts_active_in": 1
     },
     {
-      "operator": "Advanced Electricity Networks Limited",
-      "active_works": 0,
-      "completed_works": 1,
-      "total_works": 1,
-      "avg_duration_days": 2,
-      "overrun_pct": 0.0,
-      "high_severity_pct": 0.0,
-      "districts_active_in": 1
-    },
-    {
       "operator": "Department For Transport Stats Roads",
       "active_works": 0,
       "completed_works": 1,
@@ -475,146 +485,136 @@
       "overrun_pct": 0.0,
       "high_severity_pct": 0.0,
       "districts_active_in": 1
-    },
-    {
-      "operator": "Harlaxton Gas Networks Limited",
-      "active_works": 0,
-      "completed_works": 1,
-      "total_works": 1,
-      "avg_duration_days": 11,
-      "overrun_pct": 100.0,
-      "high_severity_pct": 0.0,
-      "districts_active_in": 1
     }
   ],
   "district_volume": {
     "west_lancashire": {
-      "active": 205,
-      "completed_30d": 648,
-      "completed_90d": 1680,
+      "active": 211,
+      "completed_30d": 594,
+      "completed_90d": 1766,
       "trend": "stable"
-    },
-    "chorley": {
-      "active": 146,
-      "completed_30d": 318,
-      "completed_90d": 906,
-      "trend": "stable"
-    },
-    "preston": {
-      "active": 145,
-      "completed_30d": 464,
-      "completed_90d": 1144,
-      "trend": "increasing"
     },
     "south_ribble": {
-      "active": 143,
-      "completed_30d": 426,
-      "completed_90d": 1097,
+      "active": 203,
+      "completed_30d": 373,
+      "completed_90d": 1113,
       "trend": "stable"
     },
     "lancaster": {
-      "active": 142,
-      "completed_30d": 489,
-      "completed_90d": 1089,
-      "trend": "increasing"
+      "active": 176,
+      "completed_30d": 393,
+      "completed_90d": 1166,
+      "trend": "stable"
     },
-    "wyre": {
-      "active": 108,
-      "completed_30d": 242,
-      "completed_90d": 671,
+    "preston": {
+      "active": 176,
+      "completed_30d": 411,
+      "completed_90d": 1215,
       "trend": "stable"
     },
     "pendle": {
-      "active": 91,
-      "completed_30d": 219,
-      "completed_90d": 601,
-      "trend": "stable"
-    },
-    "rossendale": {
-      "active": 86,
+      "active": 142,
       "completed_30d": 208,
-      "completed_90d": 518,
-      "trend": "increasing"
-    },
-    "burnley": {
-      "active": 85,
-      "completed_30d": 222,
-      "completed_90d": 728,
+      "completed_90d": 631,
       "trend": "stable"
     },
-    "ribble_valley": {
-      "active": 83,
-      "completed_30d": 202,
-      "completed_90d": 511,
+    "chorley": {
+      "active": 127,
+      "completed_30d": 330,
+      "completed_90d": 955,
       "trend": "stable"
     },
     "hyndburn": {
-      "active": 75,
-      "completed_30d": 173,
-      "completed_90d": 604,
+      "active": 96,
+      "completed_30d": 178,
+      "completed_90d": 590,
       "trend": "stable"
     },
     "fylde": {
-      "active": 69,
+      "active": 94,
+      "completed_30d": 240,
+      "completed_90d": 600,
+      "trend": "stable"
+    },
+    "wyre": {
+      "active": 87,
+      "completed_30d": 258,
+      "completed_90d": 717,
+      "trend": "stable"
+    },
+    "burnley": {
+      "active": 86,
       "completed_30d": 197,
-      "completed_90d": 547,
+      "completed_90d": 672,
+      "trend": "stable"
+    },
+    "ribble_valley": {
+      "active": 85,
+      "completed_30d": 163,
+      "completed_90d": 514,
+      "trend": "stable"
+    },
+    "rossendale": {
+      "active": 85,
+      "completed_30d": 181,
+      "completed_90d": 540,
       "trend": "stable"
     }
   },
   "severity_trends": {
     "current": {
-      "high": 367,
-      "medium": 329,
-      "low": 682,
+      "high": 445,
+      "medium": 346,
+      "low": 777,
       "unknown": 0
     },
     "completed_30d": {
-      "high": 702,
-      "medium": 905,
-      "low": 2201,
+      "high": 719,
+      "medium": 777,
+      "low": 2030,
       "unknown": 0
     }
   },
   "duration_analysis": {
-    "overall_avg": 7.9,
+    "overall_avg": 7.5,
     "overall_median": 4,
     "by_category": {
       "Major": {
-        "count": 892,
-        "avg": 45.1,
-        "median": 25,
+        "count": 1120,
+        "avg": 41.4,
+        "median": 24,
         "max": 1029
       },
+      "Standard": {
+        "count": 2089,
+        "avg": 8.0,
+        "median": 6,
+        "max": 364
+      },
       "Minor": {
-        "count": 6118,
+        "count": 7379,
         "avg": 2.6,
         "median": 2,
         "max": 55
       },
-      "Standard": {
-        "count": 1650,
-        "avg": 8.5,
-        "median": 6,
-        "max": 364
-      },
-      "Immediate - Urgent": {
-        "count": 2171,
-        "avg": 5.2,
-        "median": 5,
-        "max": 88
-      },
       "Immediate - Emergency": {
-        "count": 307,
-        "avg": 19.1,
+        "count": 393,
+        "avg": 17.0,
         "median": 8,
         "max": 1617
+      },
+      "Immediate - Urgent": {
+        "count": 2758,
+        "avg": 5.1,
+        "median": 5,
+        "max": 88
       }
     },
     "longest_running": [
       {
         "road": "Bolton Road",
         "district": "chorley",
-        "days": 1065,
+        "days": 1090,
         "operator": "Lancashire County Council",
         "start_date": "2023-07-28T13:00:00+00:00",
         "category": "Immediate - Emergency"
@@ -622,23 +622,15 @@
       {
         "road": "Haslingden Old Road",
         "district": "hyndburn",
-        "days": 542,
+        "days": 567,
         "operator": "Lancashire County Council",
         "start_date": "2025-01-01T10:00:00+00:00",
         "category": "Immediate - Emergency"
       },
       {
-        "road": "Church Lane",
-        "district": "preston",
-        "days": 373,
-        "operator": "Lancashire County Council",
-        "start_date": "2025-06-19T09:00:00+00:00",
-        "category": "Major"
-      },
-      {
         "road": "Chipping Road",
         "district": "ribble_valley",
-        "days": 352,
+        "days": 377,
         "operator": "Lancashire County Council",
         "start_date": "2025-07-10T09:00:00+00:00",
         "category": "Major"
@@ -646,23 +638,15 @@
       {
         "road": "Blackleach Lane",
         "district": "preston",
-        "days": 296,
+        "days": 321,
         "operator": "Lancashire County Council",
         "start_date": "2025-09-04T09:00:00+00:00",
         "category": "Major"
       },
       {
-        "road": "The Sands",
-        "district": "ribble_valley",
-        "days": 237,
-        "operator": "Lancashire County Council",
-        "start_date": "2025-11-03T00:00:00+00:00",
-        "category": "Standard"
-      },
-      {
         "road": "Broad Street",
         "district": "pendle",
-        "days": 230,
+        "days": 255,
         "operator": "Lancashire County Council",
         "start_date": "2025-11-10T07:00:00+00:00",
         "category": "Major"
@@ -670,7 +654,7 @@
       {
         "road": "Lytham Road",
         "district": "fylde",
-        "days": 211,
+        "days": 236,
         "operator": "Lancashire County Council",
         "start_date": "2025-11-28T09:00:00+00:00",
         "category": "Major"
@@ -678,7 +662,7 @@
       {
         "road": "Henrietta Street",
         "district": "preston",
-        "days": 186,
+        "days": 211,
         "operator": "Electricity North West Limited",
         "start_date": "2025-12-23T09:00:00+00:00",
         "category": "Major"
@@ -686,7 +670,7 @@
       {
         "road": "Long Lane",
         "district": "chorley",
-        "days": 178,
+        "days": 203,
         "operator": "Lancashire County Council",
         "start_date": "2026-01-01T00:00:00+00:00",
         "category": "Major"
@@ -694,15 +678,31 @@
       {
         "road": "Euxton Lane",
         "district": "chorley",
-        "days": 174,
+        "days": 199,
         "operator": "Lancashire County Council",
         "start_date": "2026-01-05T00:00:00+00:00",
         "category": "Major"
       },
       {
+        "road": "Colne Road",
+        "district": "burnley",
+        "days": 199,
+        "operator": "Lancashire County Council",
+        "start_date": "2026-01-05T00:00:00+00:00",
+        "category": "Major"
+      },
+      {
+        "road": "Colne Road",
+        "district": "burnley",
+        "days": 198,
+        "operator": "Lancashire County Council",
+        "start_date": "2026-01-06T07:00:00+00:00",
+        "category": "Major"
+      },
+      {
         "road": "Millennium Way",
         "district": "chorley",
-        "days": 174,
+        "days": 198,
         "operator": "Lancashire County Council",
         "start_date": "2026-01-05T08:30:00+00:00",
         "category": "Major"
@@ -710,31 +710,15 @@
       {
         "road": "Preston Road",
         "district": "chorley",
-        "days": 174,
+        "days": 198,
         "operator": "Lancashire County Council",
         "start_date": "2026-01-05T08:30:00+00:00",
         "category": "Major"
       },
       {
-        "road": "Colne Road",
-        "district": "burnley",
-        "days": 174,
-        "operator": "Lancashire County Council",
-        "start_date": "2026-01-05T00:00:00+00:00",
-        "category": "Major"
-      },
-      {
-        "road": "Colne Road",
-        "district": "burnley",
-        "days": 173,
-        "operator": "Lancashire County Council",
-        "start_date": "2026-01-06T07:00:00+00:00",
-        "category": "Major"
-      },
-      {
         "road": "Manchester Road",
         "district": "burnley",
-        "days": 167,
+        "days": 192,
         "operator": "Lancashire County Council",
         "start_date": "2026-01-12T08:00:00+00:00",
         "category": "Major"
@@ -742,7 +726,7 @@
       {
         "road": "Rear 14 To 44 Brennand Street",
         "district": "burnley",
-        "days": 163,
+        "days": 188,
         "operator": "Lancashire County Council",
         "start_date": "2026-01-16T07:30:00+00:00",
         "category": "Major"
@@ -750,7 +734,7 @@
       {
         "road": "Belmont Road",
         "district": "chorley",
-        "days": 145,
+        "days": 170,
         "operator": "Lancashire County Council",
         "start_date": "2026-02-03T08:00:00+00:00",
         "category": "Immediate - Emergency"
@@ -758,7 +742,7 @@
       {
         "road": "West Way",
         "district": "wyre",
-        "days": 116,
+        "days": 141,
         "operator": "Lancashire County Council",
         "start_date": "2026-03-04T08:00:00+00:00",
         "category": "Major"
@@ -766,78 +750,270 @@
       {
         "road": "Friday Street",
         "district": "chorley",
-        "days": 111,
+        "days": 136,
         "operator": "Lancashire County Council",
         "start_date": "2026-03-09T08:00:00+00:00",
+        "category": "Major"
+      },
+      {
+        "road": "Copse Road",
+        "district": "wyre",
+        "days": 126,
+        "operator": "Lancashire County Council",
+        "start_date": "2026-03-19T08:00:00+00:00",
+        "category": "Major"
+      },
+      {
+        "road": "Manchester Road",
+        "district": "pendle",
+        "days": 122,
+        "operator": "Lancashire County Council",
+        "start_date": "2026-03-23T07:30:00+00:00",
         "category": "Major"
       }
     ],
     "overdue_works": [
       {
-        "road": "Moor Lane",
-        "district": "burnley",
-        "operator": "BT",
-        "planned_end": "2026-06-28",
-        "days_overdue": 0,
-        "category": "Minor"
-      },
-      {
-        "road": "Redwood Drive",
-        "district": "fylde",
-        "operator": "Lancashire County Council",
-        "planned_end": "2026-06-27",
-        "days_overdue": 0,
-        "category": "Major"
-      },
-      {
-        "road": "Whitehill Road",
-        "district": "fylde",
-        "operator": "Lancashire County Council",
-        "planned_end": "2026-06-27",
-        "days_overdue": 0,
-        "category": "Major"
-      },
-      {
-        "road": "Alder Lane",
-        "district": "west_lancashire",
-        "operator": "United Utilities Water",
-        "planned_end": "2026-06-27",
-        "days_overdue": 0,
-        "category": "Minor"
-      },
-      {
-        "road": "London Road",
-        "district": "preston",
-        "operator": "BT",
-        "planned_end": "2026-06-28",
-        "days_overdue": 0,
-        "category": "Minor"
-      },
-      {
-        "road": "Pall Mall",
+        "road": "Lydiate Lane",
         "district": "chorley",
         "operator": "United Utilities Water",
-        "planned_end": "2026-06-27",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Stump Lane",
+        "district": "chorley",
+        "operator": "United Utilities Water",
+        "planned_end": "2026-07-22",
         "days_overdue": 0,
         "category": "Immediate - Urgent"
       },
       {
-        "road": "Moorfield Drive",
-        "district": "fylde",
+        "road": "Burnley Road",
+        "district": "hyndburn",
+        "operator": "Lancashire County Council",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Immediate - Emergency"
+      },
+      {
+        "road": "Burnley Road",
+        "district": "hyndburn",
+        "operator": "Electricity North West Limited",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Standard"
+      },
+      {
+        "road": "Borrans Lane",
+        "district": "lancaster",
         "operator": "BT",
-        "planned_end": "2026-06-28",
+        "planned_end": "2026-07-23",
         "days_overdue": 0,
         "category": "Minor"
       },
       {
-        "road": "Westleigh Road",
+        "road": "Quernmore Road",
+        "district": "lancaster",
+        "operator": "Electricity North West Limited",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Standard"
+      },
+      {
+        "road": "Rosemary Lane",
+        "district": "lancaster",
+        "operator": "United Utilities Water",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Major"
+      },
+      {
+        "road": "Stone Row Head",
+        "district": "lancaster",
+        "operator": "Electricity North West Limited",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Standard"
+      },
+      {
+        "road": "Thurnham Street",
+        "district": "lancaster",
+        "operator": "United Utilities Water",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Garstang Road",
+        "district": "preston",
+        "operator": "Cadent",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Standard"
+      },
+      {
+        "road": "Garstang Road",
+        "district": "preston",
+        "operator": "BT",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Rear Of Castleton Road Nos 1 To 87",
+        "district": "preston",
+        "operator": "United Utilities Water",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Major"
+      },
+      {
+        "road": "Chapel Hill",
+        "district": "ribble_valley",
+        "operator": "United Utilities Water",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Old Clitheroe Road",
+        "district": "ribble_valley",
+        "operator": "BT",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Major"
+      },
+      {
+        "road": "Whalley Road",
+        "district": "ribble_valley",
+        "operator": "Lancashire County Council",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Major"
+      },
+      {
+        "road": "Whalley Road",
+        "district": "ribble_valley",
+        "operator": "Lancashire County Council",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Major"
+      },
+      {
+        "road": "Hippings Lane",
+        "district": "rossendale",
+        "operator": "United Utilities Water",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Standard"
+      },
+      {
+        "road": "Croston Road",
+        "district": "south_ribble",
+        "operator": "BT",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Lindle Lane",
+        "district": "south_ribble",
+        "operator": "BT",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "High Lane",
+        "district": "west_lancashire",
+        "operator": "BT",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Ormskirk Road",
+        "district": "west_lancashire",
+        "operator": "BT",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Major"
+      },
+      {
+        "road": "Millwood Glade",
+        "district": "chorley",
+        "operator": "United Utilities Water",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Rossendale Drive",
+        "district": "chorley",
+        "operator": "United Utilities Water",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Standard"
+      },
+      {
+        "road": "Russell Square",
+        "district": "chorley",
+        "operator": "United Utilities Water",
+        "planned_end": "2026-07-22",
+        "days_overdue": 0,
+        "category": "Immediate - Urgent"
+      },
+      {
+        "road": "Bare Lane",
+        "district": "lancaster",
+        "operator": "BT",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Lancaster Road",
+        "district": "lancaster",
+        "operator": "BT",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Lancaster Road",
+        "district": "lancaster",
+        "operator": "BT",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Woodhill Lane",
+        "district": "lancaster",
+        "operator": "BT",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Minor"
+      },
+      {
+        "road": "Brockholes Brow",
         "district": "preston",
         "operator": "Lancashire County Council",
-        "planned_end": "2026-06-27",
+        "planned_end": "2026-07-23",
+        "days_overdue": 0,
+        "category": "Standard"
+      },
+      {
+        "road": "Fulwood Hall Lane",
+        "district": "preston",
+        "operator": "BT",
+        "planned_end": "2026-07-23",
         "days_overdue": 0,
         "category": "Minor"
       }
     ],
-    "overdue_count": 8
+    "overdue_count": 30
   }
 }
