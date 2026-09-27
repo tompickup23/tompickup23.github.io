@@ -2,16 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://tompickup.co.uk/news/lytham-supported-living/</loc>
+    <loc>https://tompickup.co.uk/news/stocks-massey-bequest-2026/</loc>
     <news:news>
       <news:publication>
         <news:name>Tom Pickup</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-27T12:00:00.000Z</news:publication_date>
-      <news:title>Nine Front Doors: Supported Living Starts in Lytham St Annes</news:title>
-      <news:keywords>lancashire, adult social care, housing, learning disability, fylde</news:keywords>
+      <news:publication_date>2026-09-27T00:00:00.000Z</news:publication_date>
+      <news:title>Stocks Massey 2026: £34,000 for Burnley groups and students</news:title>
+      <news:keywords>burnley, charity, community, stocks-massey</news:keywords>
     </news:news>
-    <lastmod>2026-08-27T12:00:00.000Z</lastmod>
+    <lastmod>2026-09-27T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tompickup.co.uk/news/stocks-massey-bequest-2025/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Tom Pickup</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-01T00:00:00.000Z</news:publication_date>
+      <news:title>Stocks Massey 2025: £24,000 for Burnley groups and students</news:title>
+      <news:keywords>burnley, charity, community, stocks-massey</news:keywords>
+    </news:news>
+    <lastmod>2026-09-27T00:00:00.000Z</lastmod>
   </url>
 </urlset>
