@@ -1,5 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://tompickup.co.uk/sitemap-index.xml
-Sitemap: https://tompickup.co.uk/news-sitemap.xml

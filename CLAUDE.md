@@ -1,20 +1,11 @@
-# tompickup23.github.io — Agent Context
+# tompickup23.github.io
 
-## What this is
+Retired 7 October 2026. This used to be a mirror of the built tompickup.co.uk site.
+The domain is now served by GitHub Pages from tompickup23/tompickup.co.uk itself.
 
-**A publish target, not a source repo.** GitHub Pages repo serving
-`tompickup.co.uk` (see `CNAME`), holding built output — `_astro/`, rendered
-route directories (`about/`, `contact/`, `news/`, `lancs/`, `lgr/`, `doge/`,
-`press/`, `privacy/`, `cookies/`, `documents/`), sitemaps and images.
+Every path here redirects to the same path on https://tompickup.co.uk and is marked
+noindex, so search engines drop the duplicate. The old built output is in this
+repo's history (last build: commit 435b121).
 
-## Rules
-
-1. **Don't hand-edit the built output.** Make the change in the Astro source
-   repo — `~/tompickup.co.uk` — and rebuild/republish. Edits made here are lost
-   on the next publish.
-2. If something looks wrong here, diagnose it in the source repo.
-3. This is the live public site for a serving councillor. Never publish, push or
-   remove content without an explicit instruction, and take particular care with
-   the `news/`, `press/`, `lgr/` and `documents/` sections.
-4. Keep `CNAME`, `news-sitemap.xml` and the sitemaps intact — deleting them
-   breaks the custom domain or search indexing.
+Other repos' project pages at tompickup23.github.io/<repo>/ are served by those
+repos and are not affected by this one.
